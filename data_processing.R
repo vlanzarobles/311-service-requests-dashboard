@@ -192,7 +192,7 @@
           service_data <- read.socrata("https://data.cityofchicago.org/resource/v6vf-nfxy.json?$where=created_date >= '2024-01-01T00:00:00' AND created_date < '2024-03-31T00:00:00'",
                                        app_token = "Iy7muIkJJriErnnu432st5UYT",
                                        email     = "vlanzarobles@uchicago.edu",
-                                       password  = "HiDataPortal!2")
+                                       password  = "###Add your own password")
           
           # Process the downloaded data:
           service_data <- service_data |>

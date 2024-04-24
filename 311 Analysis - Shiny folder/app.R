@@ -358,7 +358,7 @@
                   }
       
 
-          # Education tab:
+          # Educational Attainment tab:
     
                 education_data <- import_csv(education_file_name)
                 
@@ -403,7 +403,7 @@
                 
                 output$race_caption_output <- renderText({"Source: American Community Survey 2018-2022 5-Year Data. Table B02001"})
           
-          #Poverty tab:
+          #Poverty Status tab:
           
                 poverty_data <- import_csv(poverty_file_name)
                 
