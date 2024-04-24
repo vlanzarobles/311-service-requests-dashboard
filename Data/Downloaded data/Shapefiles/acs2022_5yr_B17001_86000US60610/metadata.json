@@ -1,0 +1,252 @@
+{
+    "release": {
+        "id": "acs2022_5yr",
+        "name": "ACS 2022 5-year",
+        "years": "2018-2022"
+    },
+    "tables": {
+        "B17001": {
+            "columns": {
+                "B17001001": {
+                    "indent": 0,
+                    "name": "Total:"
+                },
+                "B17001002": {
+                    "indent": 1,
+                    "name": "Income in the past 12 months below poverty level:"
+                },
+                "B17001003": {
+                    "indent": 2,
+                    "name": "Male:"
+                },
+                "B17001004": {
+                    "indent": 3,
+                    "name": "Under 5 years"
+                },
+                "B17001005": {
+                    "indent": 3,
+                    "name": "5 years"
+                },
+                "B17001006": {
+                    "indent": 3,
+                    "name": "6 to 11 years"
+                },
+                "B17001007": {
+                    "indent": 3,
+                    "name": "12 to 14 years"
+                },
+                "B17001008": {
+                    "indent": 3,
+                    "name": "15 years"
+                },
+                "B17001009": {
+                    "indent": 3,
+                    "name": "16 and 17 years"
+                },
+                "B17001010": {
+                    "indent": 3,
+                    "name": "18 to 24 years"
+                },
+                "B17001011": {
+                    "indent": 3,
+                    "name": "25 to 34 years"
+                },
+                "B17001012": {
+                    "indent": 3,
+                    "name": "35 to 44 years"
+                },
+                "B17001013": {
+                    "indent": 3,
+                    "name": "45 to 54 years"
+                },
+                "B17001014": {
+                    "indent": 3,
+                    "name": "55 to 64 years"
+                },
+                "B17001015": {
+                    "indent": 3,
+                    "name": "65 to 74 years"
+                },
+                "B17001016": {
+                    "indent": 3,
+                    "name": "75 years and over"
+                },
+                "B17001017": {
+                    "indent": 2,
+                    "name": "Female:"
+                },
+                "B17001018": {
+                    "indent": 3,
+                    "name": "Under 5 years"
+                },
+                "B17001019": {
+                    "indent": 3,
+                    "name": "5 years"
+                },
+                "B17001020": {
+                    "indent": 3,
+                    "name": "6 to 11 years"
+                },
+                "B17001021": {
+                    "indent": 3,
+                    "name": "12 to 14 years"
+                },
+                "B17001022": {
+                    "indent": 3,
+                    "name": "15 years"
+                },
+                "B17001023": {
+                    "indent": 3,
+                    "name": "16 and 17 years"
+                },
+                "B17001024": {
+                    "indent": 3,
+                    "name": "18 to 24 years"
+                },
+                "B17001025": {
+                    "indent": 3,
+                    "name": "25 to 34 years"
+                },
+                "B17001026": {
+                    "indent": 3,
+                    "name": "35 to 44 years"
+                },
+                "B17001027": {
+                    "indent": 3,
+                    "name": "45 to 54 years"
+                },
+                "B17001028": {
+                    "indent": 3,
+                    "name": "55 to 64 years"
+                },
+                "B17001029": {
+                    "indent": 3,
+                    "name": "65 to 74 years"
+                },
+                "B17001030": {
+                    "indent": 3,
+                    "name": "75 years and over"
+                },
+                "B17001031": {
+                    "indent": 1,
+                    "name": "Income in the past 12 months at or above poverty level:"
+                },
+                "B17001032": {
+                    "indent": 2,
+                    "name": "Male:"
+                },
+                "B17001033": {
+                    "indent": 3,
+                    "name": "Under 5 years"
+                },
+                "B17001034": {
+                    "indent": 3,
+                    "name": "5 years"
+                },
+                "B17001035": {
+                    "indent": 3,
+                    "name": "6 to 11 years"
+                },
+                "B17001036": {
+                    "indent": 3,
+                    "name": "12 to 14 years"
+                },
+                "B17001037": {
+                    "indent": 3,
+                    "name": "15 years"
+                },
+                "B17001038": {
+                    "indent": 3,
+                    "name": "16 and 17 years"
+                },
+                "B17001039": {
+                    "indent": 3,
+                    "name": "18 to 24 years"
+                },
+                "B17001040": {
+                    "indent": 3,
+                    "name": "25 to 34 years"
+                },
+                "B17001041": {
+                    "indent": 3,
+                    "name": "35 to 44 years"
+                },
+                "B17001042": {
+                    "indent": 3,
+                    "name": "45 to 54 years"
+                },
+                "B17001043": {
+                    "indent": 3,
+                    "name": "55 to 64 years"
+                },
+                "B17001044": {
+                    "indent": 3,
+                    "name": "65 to 74 years"
+                },
+                "B17001045": {
+                    "indent": 3,
+                    "name": "75 years and over"
+                },
+                "B17001046": {
+                    "indent": 2,
+                    "name": "Female:"
+                },
+                "B17001047": {
+                    "indent": 3,
+                    "name": "Under 5 years"
+                },
+                "B17001048": {
+                    "indent": 3,
+                    "name": "5 years"
+                },
+                "B17001049": {
+                    "indent": 3,
+                    "name": "6 to 11 years"
+                },
+                "B17001050": {
+                    "indent": 3,
+                    "name": "12 to 14 years"
+                },
+                "B17001051": {
+                    "indent": 3,
+                    "name": "15 years"
+                },
+                "B17001052": {
+                    "indent": 3,
+                    "name": "16 and 17 years"
+                },
+                "B17001053": {
+                    "indent": 3,
+                    "name": "18 to 24 years"
+                },
+                "B17001054": {
+                    "indent": 3,
+                    "name": "25 to 34 years"
+                },
+                "B17001055": {
+                    "indent": 3,
+                    "name": "35 to 44 years"
+                },
+                "B17001056": {
+                    "indent": 3,
+                    "name": "45 to 54 years"
+                },
+                "B17001057": {
+                    "indent": 3,
+                    "name": "55 to 64 years"
+                },
+                "B17001058": {
+                    "indent": 3,
+                    "name": "65 to 74 years"
+                },
+                "B17001059": {
+                    "indent": 3,
+                    "name": "75 years and over"
+                }
+            },
+            "denominator_column_id": "B17001001",
+            "title": "Poverty Status in the Past 12 Months by Sex by Age",
+            "universe": "Population for whom poverty status is determined"
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "release": {
+        "id": "acs2022_5yr",
+        "name": "ACS 2022 5-year",
+        "years": "2018-2022"
+    },
+    "tables": {
+        "B23006": {
+            "columns": {
+                "B23006001": {
+                    "indent": 0,
+                    "name": "Total:"
+                },
+                "B23006002": {
+                    "indent": 1,
+                    "name": "Less than high school graduate:"
+                },
+                "B23006003": {
+                    "indent": 2,
+                    "name": "In labor force:"
+                },
+                "B23006004": {
+                    "indent": 3,
+                    "name": "In Armed Forces"
+                },
+                "B23006005": {
+                    "indent": 3,
+                    "name": "Civilian:"
+                },
+                "B23006006": {
+                    "indent": 4,
+                    "name": "Employed"
+                },
+                "B23006007": {
+                    "indent": 4,
+                    "name": "Unemployed"
+                },
+                "B23006008": {
+                    "indent": 2,
+                    "name": "Not in labor force"
+                },
+                "B23006009": {
+                    "indent": 1,
+                    "name": "High school graduate (includes equivalency):"
+                },
+                "B23006010": {
+                    "indent": 2,
+                    "name": "In labor force:"
+                },
+                "B23006011": {
+                    "indent": 3,
+                    "name": "In Armed Forces"
+                },
+                "B23006012": {
+                    "indent": 3,
+                    "name": "Civilian:"
+                },
+                "B23006013": {
+                    "indent": 4,
+                    "name": "Employed"
+                },
+                "B23006014": {
+                    "indent": 4,
+                    "name": "Unemployed"
+                },
+                "B23006015": {
+                    "indent": 2,
+                    "name": "Not in labor force"
+                },
+                "B23006016": {
+                    "indent": 1,
+                    "name": "Some college or associate's degree:"
+                },
+                "B23006017": {
+                    "indent": 2,
+                    "name": "In labor force:"
+                },
+                "B23006018": {
+                    "indent": 3,
+                    "name": "In Armed Forces"
+                },
+                "B23006019": {
+                    "indent": 3,
+                    "name": "Civilian:"
+                },
+                "B23006020": {
+                    "indent": 4,
+                    "name": "Employed"
+                },
+                "B23006021": {
+                    "indent": 4,
+                    "name": "Unemployed"
+                },
+                "B23006022": {
+                    "indent": 2,
+                    "name": "Not in labor force"
+                },
+                "B23006023": {
+                    "indent": 1,
+                    "name": "Bachelor's degree or higher:"
+                },
+                "B23006024": {
+                    "indent": 2,
+                    "name": "In labor force:"
+                },
+                "B23006025": {
+                    "indent": 3,
+                    "name": "In Armed Forces"
+                },
+                "B23006026": {
+                    "indent": 3,
+                    "name": "Civilian:"
+                },
+                "B23006027": {
+                    "indent": 4,
+                    "name": "Employed"
+                },
+                "B23006028": {
+                    "indent": 4,
+                    "name": "Unemployed"
+                },
+                "B23006029": {
+                    "indent": 2,
+                    "name": "Not in labor force"
+                }
+            },
+            "denominator_column_id": "B23006001",
+            "title": "Educational Attainment by Employment Status for the Population 25 to 64 Years",
+            "universe": "Population 25 to 64 years"
+        }
+    }
+}

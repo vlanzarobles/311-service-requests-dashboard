@@ -1,0 +1,101 @@
+"request_type","owner_department","number_of_requests","percentage_of_total_requests","percentage_completed","mean_processing_time_days"
+"311 INFORMATION ONLY CALL","311 City Services",203000,47.4450934060669,100,3.23161831782521e-06
+"Abandoned Vehicle Complaint","Streets and Sanitation",13075,3.05588471076022,95.3881453154876,16.2190554369566
+"Aircraft Noise Complaint","Aviation",69266,16.1888267973627,100,3.22512060323541e-06
+"Alley Light Out Complaint","CDOT - Department of Transportation",1742,0.407139668538761,96.0390355912744,8.52052468674592
+"Alley Pothole Complaint","CDOT - Department of Transportation",2151,0.502731014366748,98.419339841934,6.52811975148271
+"Alley Sewer Inspection Request","DWM - Department of Water Management",258,0.0602996753633757,77.1317829457364,13.1114355923134
+"Animal In Trap Complaint","Animal Care and Control",25,0.00584299179877671,96,3.26756896219136
+"Bee/Wasp Removal","Streets and Sanitation",68,0.0158929376926727,100,13.2004537717865
+"Bicycle Request/Complaint","CDOT - Department of Transportation",137,0.0320195950572964,35.036496350365,12.0077804301698
+"Blue Recycling Cart","Streets and Sanitation",4587,1.07207213523955,99.781992587748,10.3711794378495
+"Building Violation","DOB - Buildings",4775,1.11601143356635,68.2722513089005,23.3585032627528
+"Buildings - Plumbing Violation","DOB - Buildings",2704,0.631977992955689,71.1908284023669,27.9737859066859
+"Bungalow/Vintage Home Information Request","Department of Housing",25,0.00584299179877671,100,7.6504662037037
+"Business Complaints","BACP - Business Affairs and Consumer Protection",665,0.155423581847461,82.2556390977444,18.2746714401788
+"Cab Feedback","BACP - Business Affairs and Consumer Protection",535,0.125040024493822,82.6168224299065,32.1531965654852
+"Cable TV Complaint","BACP - Business Affairs and Consumer Protection",82,0.0191650130999876,59.7560975609756,48.4815580120937
+"Check for Leak","DWM - Department of Water Management",2035,0.475619532420424,95.4791154791155,6.09992056599188
+"City Vehicle Sticker Violation","City Clerk's Office",1227,0.286774037483961,100,15.9625436079417
+"Clean Vacant Lot Request","Streets and Sanitation",947,0.221332529337662,90.8130939809926,9.7946451873385
+"Clean and Green Program Request","Streets and Sanitation",46,0.0107511049097491,84.7826086956522,31.8868016975309
+"Commercial Fire Safety Inspection Request","Fire",73,0.017061536052428,100,3.96146974885845
+"Consumer Fraud Complaint","BACP - Business Affairs and Consumer Protection",398,0.0930204294365252,56.78391959799,24.8580884853327
+"Consumer Retail Business Complaint","BACP - Business Affairs and Consumer Protection",179,0.0418358212792413,83.7988826815643,20.9929079475309
+"Coyote Interaction Complaint","Animal Care and Control",325,0.0759588933840973,100,1.03656014957265
+"Dead Animal Pick-Up Request","Streets and Sanitation",2571,0.600893276586197,100,1.51223644784419
+"Dead Bird","Streets and Sanitation",115,0.0268777622743729,100,1.676028784219
+"Divvy Bike Parking Complaint","Outside Agencies",303,0.0708170606011737,66.996699669967,0.879544962141945
+"E-Scooter Parking Complaint","Outside Agencies",255,0.0595985163475225,97.6470588235294,0.53223695708761
+"Fly Dumping Complaint","Streets and Sanitation",2320,0.542229638926479,94.4396551724138,6.32245384633264
+"Garbage Cart Maintenance","Streets and Sanitation",9829,2.29723065560705,99.8372164004477,8.85340409169997
+"Graffiti Removal Request","Streets and Sanitation",14806,3.46045346290752,99.4529244900716,1.49711153555933
+"Home Buyer Program Info Request","Department of Housing",33,0.00771274917438526,100,8.13030478395062
+"Ice and Snow Removal Request","Streets and Sanitation",1330,0.310847163694921,100,0.223726442843219
+"Inaccurate Fuel Pump Complaint","BACP - Business Affairs and Consumer Protection",26,0.00607671147072778,92.3076923076923,22.6033193479938
+"Inaccurate Retail Scales Complaint","BACP - Business Affairs and Consumer Protection",3,0.000701159015853205,100,13.6537538580247
+"Inspect Public Way Request","CDOT - Department of Transportation",1669,0.390078132486333,79.7483523067705,5.65616242486852
+"Lead Inspection Request","Health",72,0.0168278163804769,100,2.81862461419753
+"Licensed Pharmaceutical Representative Complaint","Health",3,0.000701159015853205,0,NA
+"Low Water Pressure Complaint","DWM - Department of Water Management",360,0.0841390819023846,97.7777777777778,5.87113271385732
+"Missed Garbage Pick-Up Complaint","Streets and Sanitation",1867,0.436354627532645,99.8928762720943,2.91439953207229
+"No Building Permit and Construction Violation","DOB - Buildings",1254,0.29308446862664,37.6395534290271,28.1861347006434
+"No Solicitation Complaint","BACP - Business Affairs and Consumer Protection",21,0.00490811311097244,66.6666666666667,15.6478000992063
+"No Water Complaint","DWM - Department of Water Management",1387,0.324169184996132,97.4044700793079,0.842360417180689
+"Nuisance Animal Complaint","Animal Care and Control",1225,0.286306598140059,98.9387755102041,9.49214574929715
+"Open Fire Hydrant Complaint","DWM - Department of Water Management",233,0.0544566835645989,99.1416309012876,2.17446117925285
+"Outdated Merchandise Complaint","BACP - Business Affairs and Consumer Protection",17,0.00397323442316816,88.2352941176471,20.975899691358
+"Paid Sick Leave Violation","BACP - Business Affairs and Consumer Protection",38,0.0088813475341406,42.1052631578947,35.4431242766204
+"Pavement Cave-In Inspection Request","CDOT - Department of Transportation",13,0.00303835573536389,69.2307692307692,8.22589891975309
+"Pet Wellness Check Request","Animal Care and Control",656,0.153320104799901,99.0853658536585,11.5642017450142
+"Porch Inspection Request","DOB - Buildings",106,0.0247742852268133,100,9.7989525462963
+"Pothole in Street Complaint","CDOT - Department of Transportation",15194,3.55113669562453,99.4142424641306,3.85274428997021
+"Protected Bike Lane - Debris Removal","CDOT - Department of Transportation",71,0.0165940967085259,0,NA
+"Public Vehicle/Valet Complaint","BACP - Business Affairs and Consumer Protection",73,0.017061536052428,90.4109589041096,11.5234185606061
+"Pushcart Food Vendor Complaint","Health",53,0.0123871426134066,83.0188679245283,20.1488944128788
+"Recycling Inspection Request","Streets and Sanitation",106,0.0247742852268133,92.4528301886792,20.3655425642479
+"Recycling Pick Up","Streets and Sanitation",1012,0.236524308014481,100,1.25598172622969
+"Renters and Foreclosure Complaint","BACP - Business Affairs and Consumer Protection",17,0.00397323442316816,70.5882352941177,26.5303153935185
+"Report an Injured Animal","Animal Care and Control",1634,0.381897943968046,100,0.573525360963779
+"Restaurant Complaint","Health",479,0.111951722864562,94.1544885177453,12.6079951188716
+"Ridesharing Complaint","BACP - Business Affairs and Consumer Protection",58,0.013555740973162,84.4827586206897,32.2533770313681
+"Rodent Baiting/Rat Complaint","Streets and Sanitation",7709,1.80174495107079,100,1.88030703500718
+"Sanitation Code Violation","Streets and Sanitation",2556,0.597387481506931,97.6917057902973,5.10773248731812
+"Sewer Cave-In Inspection Request","DWM - Department of Water Management",979,0.228811558840096,78.1409601634321,16.8707340383684
+"Sewer Cleaning Inspection Request","DWM - Department of Water Management",1929,0.450845247193611,82.789009849663,7.41465569122661
+"Shared Housing/Vacation Rental Complaint","BACP - Business Affairs and Consumer Protection",132,0.030850996697541,67.4242424242424,22.6386906991261
+"Sidewalk Café/Outdoor Dining Complaint","BACP - Business Affairs and Consumer Protection",40,0.00934878687804274,77.5,12.518673088411
+"Sidewalk Inspection Request","CDOT - Department of Transportation",2041,0.477021850452131,0.6859382655561,31.6547271825397
+"Sign Repair Request - All Other Signs","CDOT - Department of Transportation",3458,0.808202625606795,34.75997686524,12.5323561714273
+"Sign Repair Request - Do Not Enter Sign","CDOT - Department of Transportation",174,0.0406672229194859,98.2758620689655,0.556421512887156
+"Sign Repair Request - One Way Sign","CDOT - Department of Transportation",525,0.122702827774311,99.8095238095238,0.283256334817642
+"Sign Repair Request - Stop Sign","CDOT - Department of Transportation",1117,0.261064873569343,99.8209489704566,0.363824541189171
+"Snow - Object/Dibs Removal Request","Streets and Sanitation",898,0.209880265412059,99.8886414253897,7.32817805751683
+"Snow Removal - Protected Bike Lane or Bridge Sidewalk","CDOT - Department of Transportation",31,0.00724530983048312,100,21.0747995071685
+"Snow – Uncleared Sidewalk Complaint","CDOT - Department of Transportation",1153,0.269478781759582,100,7.29243543413318
+"Stray Animal Complaint","Animal Care and Control",347,0.0811007261670208,100,3.49583843659942
+"Street Cleaning Request","Streets and Sanitation",1354,0.316456435821747,99.4091580502216,4.33672691032414
+"Street Light On During Day Complaint","CDOT - Department of Transportation",136,0.0317858753853453,47.0588235294118,20.6838465711806
+"Street Light Out Complaint","CDOT - Department of Transportation",7512,1.75570217569643,96.5654952076677,4.37507661641342
+"Street Light Pole Damage Complaint","CDOT - Department of Transportation",1104,0.25802651783398,84.6014492753623,4.10950027014434
+"Street Light Pole Door Missing Complaint","CDOT - Department of Transportation",311,0.0726868179767823,15.112540192926,21.7322453703704
+"Tobacco - General Complaint","BACP - Business Affairs and Consumer Protection",29,0.00677787048658098,93.1034482758621,15.2928245027435
+"Tobacco - Sale to Minors Complaint","BACP - Business Affairs and Consumer Protection",46,0.0107511049097491,97.8260869565217,20.5501134259259
+"Traffic Signal Out Complaint","CDOT - Department of Transportation",5223,1.22071784660043,92.303273980471,2.89094483432821
+"Tree Debris Clean-Up Request","Streets and Sanitation",2717,0.635016348691053,91.4611704085388,5.98203417262836
+"Tree Emergency","Streets and Sanitation",1833,0.428408158686308,98.6906710310966,2.07184145501914
+"Tree Planting Request","Streets and Sanitation",2477,0.578923627422797,24.2632216390795,35.5307781398287
+"Tree Removal Request","Streets and Sanitation",2472,0.577755029063041,26.6990291262136,36.9982686062009
+"Tree Trim Request (NO LONGER BEING ACCEPTED)","Streets and Sanitation",3,0.000701159015853205,33.3333333333333,14.7090740740741
+"Vacant/Abandoned Building Complaint","DOB - Buildings",1295,0.302666975176634,75.5212355212355,24.8014488894569
+"Vehicle Parked in Bike Lane Complaint","Finance",803,0.187676896576708,100,3.64662607813293e-06
+"Viaduct Light Out Complaint","CDOT - Department of Transportation",95,0.0222033688353515,57.8947368421053,47.0144111952862
+"Vicious Animal Complaint","Animal Care and Control",1621,0.378859588232682,100,0.6651819578678
+"Wage Complaint","BACP - Business Affairs and Consumer Protection",49,0.0114522639256024,55.1020408163265,33.7224314128944
+"Water Lead Test Kit Request","DWM - Department of Water Management",3148,0.735749527301964,20.8068614993647,43.4223865740741
+"Water Lead Test Visit Request","DWM - Department of Water Management",206,0.0481462524219201,45.6310679611651,38.962643321513
+"Water On Street Complaint","DWM - Department of Water Management",2305,0.538723843847213,78.6984815618221,8.06434112637307
+"Water Quality Concern","DWM - Department of Water Management",114,0.0266440426024218,58.7719298245614,23.7380807766722
+"Water in Basement Complaint","DWM - Department of Water Management",1055,0.246574253908377,97.8199052132701,1.6709358065066
+"Wire Basket Request","Streets and Sanitation",276,0.0645066294584949,97.463768115942,3.84503665840562
+"Yard Waste Pick-Up Request","Streets and Sanitation",1056,0.246807973580328,99.8106060606061,2.54180228318926
