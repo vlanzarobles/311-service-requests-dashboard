@@ -38,7 +38,7 @@ Census data by ZIP code and its corresponding shapefiles:
 
 **Notes on large files**
 
-Since the shapefiles and the 311 Service Requests dataset are very large, I have not committed them to Github in order to avoid commit problems. These datasets have been added to the gitignore file so that they will not appear on GitHub. Instead, they can be found in Google Drive: https://drive.google.com/drive/u/0/folders/1-ssAE_1ZNdEvqF_J8NiQ7CJmFHoK1URR
+The shapefiles and the 311 Service Requests dataset are very large, I have committed them to Github and also to Google Drive: https://drive.google.com/drive/u/0/folders/1-ssAE_1ZNdEvqF_J8NiQ7CJmFHoK1URR
 
 
 **Link to Shiny app**
