@@ -15,7 +15,7 @@
 # 2.Paths and dates to be changed to reproduce the results
 
     # Path to project folder:
-    general_path <- "/Users/cesarlanzasuarez/Library/Mobile Documents/com~apple~CloudDocs/Todo lo demás/Coding/GitHub/City of Chicago 311 Service Requests Dashboard/"
+    general_path <- "/Users/cesarlanzasuarez/Library/Mobile Documents/com~apple~CloudDocs/Todo lo demás/Coding/GitHub/City of Chicago 311 Service Requests Dashboard/311-service-requests-dashboard/"
     
         # Data downloaded from the internet:
         downloaded_data_path <- paste0(general_path, "Data/Downloaded data/")
